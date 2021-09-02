@@ -5,12 +5,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 module.exports = {
   title: "Hiro Docs",
   tagline: "Developer tools for Stacks",
-  url: "https://docs.hiro.so",
+  url: "https://pgray-hiro.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon-light.svg",
-  organizationName: "hirosystems", // Usually your GitHub org/user name.
+  organizationName: "pgray-hiro", // Usually your GitHub org/user name.
   projectName: "hiro-docs", // Usually your repo name.
   themeConfig: {
     navbar: {
