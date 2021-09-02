@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhiro_docusaurus=self.webpackChunkhiro_docusaurus||[]).push([[172],{2427:function(s){s.exports=JSON.parse('{"specUrl":"https://raw.githubusercontent.com/blockstack/stacks-blockchain-api/master/docs/openapi.yaml","type":"url","content":"https://raw.githubusercontent.com/blockstack/stacks-blockchain-api/master/docs/openapi.yaml"}')}}]);
