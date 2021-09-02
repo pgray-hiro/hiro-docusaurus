@@ -11,7 +11,7 @@ module.exports = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon-light.svg",
   organizationName: "pgray-hiro", // Usually your GitHub org/user name.
-  projectName: "hiro-docs", // Usually your repo name.
+  projectName: "hiro-docusarus", // Usually your repo name.
   themeConfig: {
     navbar: {
       logo: {
@@ -62,11 +62,11 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Docs",
+          title: "Developer docs",
           items: [
             {
-              label: "Tutorial",
-              to: "/docs/intro",
+              label: "Get started",
+              to: "/docs/get-started",
             },
           ],
         },
