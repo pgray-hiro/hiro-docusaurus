@@ -12,6 +12,7 @@ module.exports = {
   favicon: "img/favicon-light.svg",
   organizationName: "pgray-hiro", // Usually your GitHub org/user name.
   projectName: "hiro-docusaurus", // Usually your repo name.
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       logo: {
