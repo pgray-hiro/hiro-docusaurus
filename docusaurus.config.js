@@ -6,7 +6,7 @@ module.exports = {
   title: "Hiro Docs",
   tagline: "Developer tools for Stacks",
   url: "https://pgray-hiro.github.io",
-  baseUrl: "/",
+  baseUrl: "/hiro-docusaurus/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon-light.svg",
