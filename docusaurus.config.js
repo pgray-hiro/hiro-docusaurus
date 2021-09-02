@@ -126,5 +126,17 @@ module.exports = {
         },
       },
     ],
+    [
+      "redocusaurus",
+      {
+        specs: [
+          {
+            routePath: "/api/",
+            specUrl:
+              "https://raw.githubusercontent.com/blockstack/stacks-blockchain-api/master/docs/openapi.yaml",
+          },
+        ],
+      },
+    ],
   ],
 };

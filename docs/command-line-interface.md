@@ -21,7 +21,7 @@ The `-g` flag makes the CLI commands available globally
 
 By default, the CLI will attempt to interact with the mainnet of the Stacks 2.0 blockchain. However, it is possible to override the network and set it to the testnet:
 
-```bash
+```sh
 stx <command> -t
 ```
 
@@ -33,7 +33,7 @@ For account usage, that means adresses generated will _only_ be available for th
 
 By default, using the `-t` flag causes the CLI to connect to the testnet node at `http://stacks-node-api.blockstack.org:20443`. To specify a node to connect to, add the `-I` flag followed by the URL of the node:
 
-```bash
+```sh
 stx <command> -I "http://localhost:20443"
 ```
 
